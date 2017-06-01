@@ -1,8 +1,9 @@
 <!DOCTYPE html>
+
 <html lang='en_us'>
 <head>
 
-    <link rel="SHORTCUT ICON" href="themes/SuiteR/images/sugar_icon.ico?v=jIT3X4f60i1mEnPpASjaBQ">
+    
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     
